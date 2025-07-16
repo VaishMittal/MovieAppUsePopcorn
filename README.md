@@ -22,7 +22,7 @@ Built with React, hooks, and fetch API. Deployed on Netlify.
 ---
 ## 📸 Screenshot
 
-![Find Movie](./public/movieApp.png)
+![Find Movie](./src/assets/movieApp.png)
 
 ## Technologies Used
 
